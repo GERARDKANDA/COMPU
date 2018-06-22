@@ -1,0 +1,23 @@
+Clerk Login
+Sale line
+Sale cancel
+Payment
+EC
+ALL VOID
+-%
++%
+Discount
+Print Non-fiscal Foot message
+Print Non-fiscal message
+Print Non-fiscal Head message
+Cash entry to drawer
+Paid out from drawer
+Printer Status
+Cut Paper
+Paper feed
+Status check -hardware
+Status check-software
+Print subtotal
+Open Drawer
+Print CustomCode
+Print message

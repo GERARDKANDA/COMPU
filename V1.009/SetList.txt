@@ -1,0 +1,8 @@
+Upload Tax rates
+VAT rate set
+Set foot message  
+System Flag
+Set Clerk Password
+Open EJ Module
+;Close EJ Module
+Set Foreign Currency

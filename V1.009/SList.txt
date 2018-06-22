@@ -1,0 +1,9 @@
+Service Login
+Fiscalize
+Time set (within +- hour)
+Date set(no earlier than last date)
+Recovery
+Upload head message
+Head message set
+Write Gprs set
+Read Gprs set

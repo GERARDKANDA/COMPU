@@ -1,0 +1,13 @@
+Clerk Login
+ALL VOID
+Fiscal memory report by No.
+Fiscal memory report by date
+Fiscal memory report by Month
+Fiscal memory report by Year
+Other report
+EJ Summary Info by date
+EJ Summary Info by No.
+EJ Receipt by date
+EJ Receipt by No.
+EJ RecoveryRep
+Copy last receipt
